@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb1dbcbf-61e0-44b9-addc-9493f76a8034" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/consumer/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/consumer/app/Controller/IndexController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/provider/app/Rpc/CalculatorService.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" column="44" lean-forward="true" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/consumer/config/autoload/services.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="56" lean-forward="true" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/provider/app/Rpc/CalculatorServiceInterface.php" />
+        <option value="$PROJECT_DIR$/provider/config/autoload/server.php" />
+        <option value="$PROJECT_DIR$/consumer/app/Rpc/CalculatorServiceInterface.php" />
+        <option value="$PROJECT_DIR$/consumer/config/autoload/services.php" />
+        <option value="$PROJECT_DIR$/consumer/app/Controller/IndexController.php" />
+        <option value="$PROJECT_DIR$/provider/app/Rpc/CalculatorService.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/consumer/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/consumer/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/consumer/vendor/laminas/laminas-zendframework-bridge" />
+      <path value="$PROJECT_DIR$/consumer/vendor/psr/http-server-middleware" />
+      <path value="$PROJECT_DIR$/consumer/vendor/laminas/laminas-mime" />
+      <path value="$PROJECT_DIR$/consumer/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/consumer/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/consumer/vendor/laminas/laminas-stdlib" />
+      <path value="$PROJECT_DIR$/consumer/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/consumer/vendor/psr/http-server-handler" />
+      <path value="$PROJECT_DIR$/consumer/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/consumer/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/consumer/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/consumer/vendor/fig/http-message-util" />
+      <path value="$PROJECT_DIR$/consumer/vendor/jetbrains/phpstorm-stubs" />
+      <path value="$PROJECT_DIR$/consumer/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/consumer/vendor/composer" />
+      <path value="$PROJECT_DIR$/consumer/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/consumer/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/consumer/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/consumer/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/consumer/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/consumer/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/consumer/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/consumer/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/consumer/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/consumer/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/consumer/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/consumer/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/consumer/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/consumer/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/consumer/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/consumer/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/consumer/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/consumer/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/consumer/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/consumer/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/consumer/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/consumer/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/consumer/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/consumer/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/consumer/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/consumer/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/consumer/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/consumer/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/consumer/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/consumer/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/consumer/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/consumer/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/consumer/vendor/markrogoyski/math-php" />
+      <path value="$PROJECT_DIR$/consumer/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/consumer/vendor/phpstan/phpstan" />
+      <path value="$PROJECT_DIR$/consumer/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/consumer/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/consumer/vendor/hyperf/exception-handler" />
+      <path value="$PROJECT_DIR$/consumer/vendor/hyperf/framework" />
+      <path value="$PROJECT_DIR$/consumer/vendor/hyperf/command" />
+      <path value="$PROJECT_DIR$/consumer/vendor/hyperf/load-balancer" />
+      <path value="$PROJECT_DIR$/consumer/vendor/hyperf/rpc-client" />
+      <path value="$PROJECT_DIR$/consumer/vendor/hyperf/config" />
+      <path value="$PROJECT_DIR$/consumer/vendor/hyperf/consul" />
+      <path value="$PROJECT_DIR$/consumer/vendor/hyperf/json-rpc" />
+      <path value="$PROJECT_DIR$/consumer/vendor/hyperf/process" />
+      <path value="$PROJECT_DIR$/consumer/vendor/hyperf/rpc" />
+      <path value="$PROJECT_DIR$/consumer/vendor/hyperf/dispatcher" />
+      <path value="$PROJECT_DIR$/consumer/vendor/friendsofphp/php-cs-fixer" />
+      <path value="$PROJECT_DIR$/consumer/vendor/hyperf/cache" />
+      <path value="$PROJECT_DIR$/consumer/vendor/hyperf/pool" />
+      <path value="$PROJECT_DIR$/consumer/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/consumer/vendor/hyperf/db-connection" />
+      <path value="$PROJECT_DIR$/consumer/vendor/hyperf/contract" />
+      <path value="$PROJECT_DIR$/consumer/vendor/hyperf/testing" />
+      <path value="$PROJECT_DIR$/consumer/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/consumer/vendor/hyperf/service-governance" />
+      <path value="$PROJECT_DIR$/consumer/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/consumer/vendor/hyperf/utils" />
+      <path value="$PROJECT_DIR$/consumer/vendor/hyperf/devtool" />
+      <path value="$PROJECT_DIR$/consumer/vendor/hyperf/database" />
+      <path value="$PROJECT_DIR$/consumer/vendor/hyperf/event" />
+      <path value="$PROJECT_DIR$/consumer/vendor/hyperf/paginator" />
+      <path value="$PROJECT_DIR$/consumer/vendor/hyperf/http-server" />
+      <path value="$PROJECT_DIR$/consumer/vendor/hyperf/rpc-server" />
+      <path value="$PROJECT_DIR$/consumer/vendor/hyperf/memory" />
+      <path value="$PROJECT_DIR$/consumer/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/consumer/vendor/hyperf/di" />
+      <path value="$PROJECT_DIR$/consumer/vendor/hyperf/http-message" />
+      <path value="$PROJECT_DIR$/consumer/vendor/hyperf/server" />
+      <path value="$PROJECT_DIR$/consumer/vendor/hyperf/guzzle" />
+      <path value="$PROJECT_DIR$/consumer/vendor/hyperf/redis" />
+      <path value="$PROJECT_DIR$/consumer/vendor/hyperf/model-listener" />
+      <path value="$PROJECT_DIR$/consumer/vendor/hyperf/logger" />
+      <path value="$PROJECT_DIR$/consumer/vendor/php-cs-fixer/diff" />
+      <path value="$PROJECT_DIR$/consumer/vendor/roave/signature" />
+      <path value="$PROJECT_DIR$/consumer/vendor/roave/better-reflection" />
+      <path value="$PROJECT_DIR$/consumer/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/consumer/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/consumer/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/consumer/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/consumer/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/consumer/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/consumer/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/consumer/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/consumer/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/consumer/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/consumer/vendor/swoole/ide-helper" />
+      <path value="$PROJECT_DIR$/consumer/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/consumer/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/consumer/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/consumer/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/consumer/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/consumer/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/consumer/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/consumer/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/consumer/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/consumer/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/consumer/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/consumer/vendor/ralouphie/getallheaders" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1095" />
+    <option name="height" value="650" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="se" type="b2602c69:ProjectViewProjectNode" />
+              <item name="se" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="se" type="b2602c69:ProjectViewProjectNode" />
+              <item name="se" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="se" type="b2602c69:ProjectViewProjectNode" />
+              <item name="se" type="462c0819:PsiDirectoryNode" />
+              <item name="provider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="se" type="b2602c69:ProjectViewProjectNode" />
+              <item name="se" type="462c0819:PsiDirectoryNode" />
+              <item name="provider" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="se" type="b2602c69:ProjectViewProjectNode" />
+              <item name="se" type="462c0819:PsiDirectoryNode" />
+              <item name="provider" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Rpc" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb1dbcbf-61e0-44b9-addc-9493f76a8034" name="Default Changelist" comment="" />
+      <created>1600326933838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600326933838</updated>
+      <workItem from="1600326939036" duration="2283000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2283000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/provider/composer.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider/config/autoload/server.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer/app/Rpc/CalculatorServiceInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer/config/autoload/services.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="56" lean-forward="true" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider/app/Rpc/CalculatorServiceInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer/app/Controller/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer/vendor/hyperf/rpc-server/src/Annotation/RpcService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider/app/Rpc/CalculatorService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="44" lean-forward="true" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
